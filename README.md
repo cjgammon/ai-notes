@@ -14,6 +14,6 @@ A collection of notes and resources related to AI and machine learning.
 
 ## OpenAI
 
-[api](openai/api.md)
+[GPT](openai/GPT.md)
 
 ## Hugging Face
