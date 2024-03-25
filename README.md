@@ -6,14 +6,14 @@ A collection of notes and resources related to AI and machine learning.
 
 ## Anthropic
 
-[Claude](anthropic/claude.md)
+- [Claude](anthropic/claude.md)
 
 ## Google
 
-[Gemini](google/gemini.md)
+- [Gemini](google/gemini.md)
 
 ## OpenAI
 
-[GPT](openai/GPT.md)
+- [GPT](openai/gpt.md)
 
 ## Hugging Face
